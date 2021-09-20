@@ -9,3 +9,9 @@ With columns titled Recency,Frequency,Amount of blood donated, whether donated t
 - Pandas: It was used to read, clean and sort the dataset.
 - Sklearn: It was to split the dataset into train class and test class.
 - Tpot: The TPOTClassifier from tpot was used to predict the best pipeline that should be used to fit the current dataset.
+
+<br>
+
+> Tuneer Khargonkar <br>
+> Reachout: <ktuneer@gmail.com> <br>
+> LinkedIn: <https://www.linkedin.com/in/tuneer-khargonkar/>
